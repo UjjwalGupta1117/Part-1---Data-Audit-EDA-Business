@@ -1,2 +1,2 @@
 # Part 1 - Data Audit, EDA & Business 
-A data-backed system to understand customer behavior, identify churn-risk patterns, and recommend retention strategies for a personal-care brand, including a simple API for an internal CRM tool
+Data quality audit, exploratory data analysis (EDA), and business understanding for a D2C customer churn prediction project. Includes data validation, churn-risk hypothesis generation, customer behavior analysis, and business recommendations based on customer, order, support, and engagement datasets.
